@@ -12,7 +12,7 @@ Thanks to the **D**raw **A** **S**cientist **T**est (DAST), we've been able not 
 
 So, when we realize that most people imagine a scientist as an _old guy, with spiky gray hair, wearing a lab coat and doing some weird chemistry experiments isolated from the rest of the world_, we can find that there are problems with the image of scientists and science themselves.
 
-![Homer from the simpsons drawing](https://i.gifer.com/29bw.gif)
+![Homer from the simpsons drawing](https://lh6.googleusercontent.com/proxy/5DCF9vKY3_WUjKdK8Srx2PkxRjNAHIHYyqXCIyg2spTVJ2Pw7_12YhQPxLiynyUAnn8=s0-d)
 
 ## What it does
 **webDAST** changes everything! By having the option to test a lot more people around the world, we will be able to gather much more accurate results. We will even be able to pinpoint certain communities, towns, cities, or countries in which the image of scientists is harmful to science, so that science educators can work on improving it :) _Not to mention_, webDAST provides an unbiased and accessible platform for researchers across the globe, something that is often either underdeveloped or unavailable for science educators and researchers alike. 
